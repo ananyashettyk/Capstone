@@ -1,0 +1,41 @@
+* {
+  margin: 3px;
+  padding: 1px;
+  box-sizing: border-box;
+  /* overflow: auto; */
+}
+
+.flex {
+  margin: auto;
+  width: 30%;
+  padding: 10px;
+}
+
+.table {
+  border: 2px;
+  border-collapse: separate;
+  border-spacing: 5 200px;
+  table-layout: fixed;
+  margin-left: 5%;
+  /* overflow: auto; */
+}
+
+.navbar {
+  margin-bottom: 80px;
+}
+
+.nav-item {
+  margin-left: 110px;
+}
+
+.navbar-toggler-icon {
+  text-decoration: none;
+}
+
+.btn {
+  margin-left: 5px;
+}
+
+.outer-container {
+  margin-top: 3%;
+}
